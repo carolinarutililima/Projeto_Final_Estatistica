@@ -1,4 +1,4 @@
-Projeto final do curso de SQL da ADA \
+Projeto final do curso de Estatística I da ADA \
 Autores: \
 Alexandre Paulino \
 Carolina Rutili de Lima \
