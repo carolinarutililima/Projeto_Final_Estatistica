@@ -2,7 +2,7 @@ Projeto final do curso de Estatística I da ADA \
 Autores: \
 Alexandre Paulino \
 Carolina Rutili de Lima \
-Hugo Cezar Sales de Souza \ 
+Hugo Cezar Sales de Souza e \ 
 Lucas Meirelles 
 
 
